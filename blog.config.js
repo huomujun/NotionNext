@@ -1,6 +1,6 @@
 // 注: process.env.XX是Vercel的环境变量，配置方式见：https://docs.tangly1024.com/zh/features/personality
 const BLOG = {
-  AUTHOR: '知享堂|火木君', // 作者
+  AUTHOR: '【知享堂|火木君】', // 作者
   BIO: '爱学习、爱分享🍚', // 作者简介
   LINK: 'http://www.zxtang.xyz', // 网站地址
   KEYWORDS: 'Notion, 博客, 知享堂, 知识分享, 资源分享', // 网站关键词 英文逗号隔开
