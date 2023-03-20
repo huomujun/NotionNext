@@ -1,9 +1,9 @@
 // 注: process.env.XX是Vercel的环境变量，配置方式见：https://docs.tangly1024.com/zh/features/personality
 const BLOG = {
   AUTHOR: '【知享堂|火木君】', // 作者
-  BIO: '爱学习、爱分享🍚', // 作者简介
+  BIO: '知享堂--您身边的学习专家🍚', // 作者简介
   LINK: 'http://www.zxtang.xyz', // 网站地址
-  KEYWORDS: 'Notion, 博客, 知享堂, 知识分享, 资源分享', // 网站关键词 英文逗号隔开
+  KEYWORDS: 'Notion, 博客, 知享堂, 学习专家，知识分享, 资源分享', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
   process.env.NOTION_PAGE_ID || '21cf8e8fcfb34329baddbb115268aecc', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
   NOTION_ACCESS_TOKEN: process.env.NOTION_ACCESS_TOKEN || '', // Useful if you prefer not to make your database public
